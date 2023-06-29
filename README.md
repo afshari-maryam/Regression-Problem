@@ -1,6 +1,6 @@
 # Regression-Problem
-This project is about implementation of regression problem for Diabetes Health Indicators Dataset Kaggle. 
-This is what I have done for this project.
+This project is about implementation of regression problem for Diabetes Health Indicators Dataset Kaggle. </br>
+This is what I have done for this project.</br>
 Data loading and preprocessing:
 ■ Identify features and labels
 ■ Features:
